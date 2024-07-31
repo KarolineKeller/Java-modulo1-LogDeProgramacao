@@ -1,0 +1,13 @@
+João é um empresário do ramo de construção cívil e decidiu adotar novos critérios para dar reajuste salarial para seus funcionários. Agora, o reajuste vai ser dado seguindo as regras abaixo:
+
+Tempo de serviço:
+
+- de 1 até 5 anos => 1%
+- de 5 a 10 anos => 1.5%
+- 10 ou mais anos => 2%
+
+O valor total percentual para o reajuste vai ser a soma do percentual de tempo de serviço mais o percentual da inflação.
+
+Para ajudar João a calcular o valor do reajuste salarial de seus funcionários, crie uma função que recebe um array como entrada. A posição 0 do array é o tempo de serviço, a posição 1 é o valor da inflação e a posição 3 é o salário atual do funcionário. Sua função deve calcular o novo salário e retorná-lo.
+
+Considere arredondamento de duas casas decimais para o salário retornado.
